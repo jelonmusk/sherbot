@@ -8,6 +8,7 @@
     </div>
     <div class="col">
           <h1 class="card-title">SHERBOT</h1>
+           <p>A personalized, friendly, simple, humorous chatbot that is developed using React js library and npm packages. Sherbot provides links to web development resources ,music channels,popular gaming sites and provides youtube recommendations. You can also communicate with the bot in english language and have a fun and relaxing experience.</p>
       </div>
   </div>
  </div>  
