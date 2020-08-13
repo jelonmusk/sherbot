@@ -93,14 +93,24 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify    
 
-## Screenshots   
+## Screenshots    
+<div class="col">
+      <img align="left" src="https://github.com/jelonmusk/sherbot/blob/master/screenshots/screencapture-1.png" class="card-img" alt="" />
+    </div>
+</br>    
 
-## Tech Framework Used    
+## Tech Framework Used     
 
-## Features
+React JS Library , npm packages, Microsoft Visual Studio
+    
+    
 
-##  How to Use
+## Features     
+
+A friendly,simple,humorous chatbot that provides link to web resources ,music channels,gaming sites and provides youtube recommendations.
+Communicates with the user in  english language.     
 
 
+</br>
 
 ## License
