@@ -1,8 +1,34 @@
+
+</br>
+<html>
+  <div class="container">
+  <div class="row">
+    <div class="col">
+      <img align="right" src="https://github.com/jelonmusk/sherbot/blob/master/src/assets/panda.png" class="card-img" width="350" height="350"  alt="" />
+    </div>
+    <div class="col">
+          <h1 class="card-title">SHERBOT</h1>
+      </div>
+  </div>
+ </div>  
+</html>       
+
+
+</br>    
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+```
+// Run these commands from your command line
+npx create-react-app chatbot
+cd chatbot
+npm install react-chatbot-kit
+npm start
+```
 
 ### `npm start`
 
@@ -65,4 +91,16 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify    
+
+## Screenshots   
+
+## Tech Framework Used    
+
+## Features
+
+##  How to Use
+
+
+
+## License
